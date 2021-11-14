@@ -1,4 +1,7 @@
-### Hi there 👋
+### wassup 👋
+#### i'm a student of **belstu** (sorry) 2 course, 5 group
+#### i got almost all labs (usually 3/7/8 option), so u can check (steal) it
+###### i love monke
 
 <!--
 **secxndary/secxndary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
